@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.eachListItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.arrowImg {
+  width: 20px;
+}
